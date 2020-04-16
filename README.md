@@ -1,2 +1,2 @@
-# CS-books
-some useful E-books about CS
+# CS-books and notes
+some useful E-books about CS and my notes
